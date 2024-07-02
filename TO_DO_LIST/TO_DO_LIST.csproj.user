@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Philasande Ngubo\OneDrive - University of Cape Town\Desktop\github\TO_DO_LIST\TO_DO_LIST\TO_DO_LIST\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="ActiPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Create.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
