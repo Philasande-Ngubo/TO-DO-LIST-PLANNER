@@ -1,5 +1,5 @@
 This is a simple to do list planner . Made using C# this is very useful for beginners it demonstrates</br>
 simple concepts used creatively to make a good softwware. Feel free to download and also note that I am not</br>a verified publisher hence window can recognize this app as a virus
 
-</br>
-![img](https://github.com/Philasande-Ngubo/TO-DO-LIST-PLANNER/assets/142037144/74db9413-cb6f-4939-8fa9-246ccc365c4f)
+</br>[
+![img](https://github.com/Philasande-Ngubo/TO-DO-LIST-PLANNER/assets/142037144/74db9413-cb6f-4939-8fa9-246ccc365c4f](https://private-user-images.githubusercontent.com/142037144/344923444-74db9413-cb6f-4939-8fa9-246ccc365c4f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk5MTE2NTksIm5iZiI6MTcxOTkxMTM1OSwicGF0aCI6Ii8xNDIwMzcxNDQvMzQ0OTIzNDQ0LTc0ZGI5NDEzLWNiNmYtNDkzOS04ZmE5LTI0NmNjYzM2NWM0Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMlQwOTA5MTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MmYzY2UyNzllZDc0NjkxNzdlZWM1ZDc2MTU5YTNjYmZjM2RmNGQzMDQyY2Y5OWNlNTBmZTYwMTBlYTBjZWJlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.7rDvnCXGoj4KTPxmE5yjC_fGmKFMNSlMIWJvwQ2yoQY))
