@@ -1,5 +1,0 @@
-C:\Users\Philasande Ngubo\OneDrive - University of Cape Town\Desktop\github\TO_DO_LIST\TO_DO_LIST\TO_DO_LIST\bin\Release\net8.0-windows\app.publish\TO_DO_LIST.exe
-C:\Users\Philasande Ngubo\OneDrive - University of Cape Town\Desktop\github\TO_DO_LIST\TO_DO_LIST\TO_DO_LIST\bin\Release\net8.0-windows\app.publish\TO_DO_LIST.dll
-C:\Users\Philasande Ngubo\OneDrive - University of Cape Town\Desktop\github\TO_DO_LIST\TO_DO_LIST\TO_DO_LIST\bin\Release\net8.0-windows\app.publish\TO_DO_LIST.deps.json
-C:\Users\Philasande Ngubo\OneDrive - University of Cape Town\Desktop\github\TO_DO_LIST\TO_DO_LIST\TO_DO_LIST\bin\Release\net8.0-windows\app.publish\TO_DO_LIST.runtimeconfig.json
-C:\Users\Philasande Ngubo\OneDrive - University of Cape Town\Desktop\github\TO_DO_LIST\TO_DO_LIST\TO_DO_LIST\bin\Release\net8.0-windows\app.publish\TO_DO_LIST.pdb
