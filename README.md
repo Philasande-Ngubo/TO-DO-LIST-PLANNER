@@ -1,3 +1,5 @@
+# ![clarify_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24](https://github.com/user-attachments/assets/c8a00147-c714-4978-8867-879944a7f852) To Do
+
 This is a simple to do list planner . Made using C# this is very useful for beginners it demonstrates</br>
 simple concepts used creatively to make a good softwware. Feel free to download and also note that I am not</br>a verified publisher hence window can recognize this app as a virus
 
